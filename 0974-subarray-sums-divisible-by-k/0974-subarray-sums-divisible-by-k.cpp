@@ -12,7 +12,10 @@ public:
 
             prefixSum += i;
 
-            int remainder = ((prefixSum % k) + k) % k;
+            int remainder = prefixSum % k;
+            if(remainder < 0) {
+                remainder += k;
+            }
 
             if(m.count(remainder)) {
                 ans += m[remainder];

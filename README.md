@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0525-contiguous-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Binary Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0525-contiguous-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Ordered Set
 |  |
@@ -35,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 <!---LeetCode Topics End-->

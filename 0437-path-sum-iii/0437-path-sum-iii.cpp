@@ -11,25 +11,25 @@
  */
 class Solution {
 public:
-    int dfs(TreeNode* root, unordered_map<int, int> &m, int prefixSum, const int targetSum) {
+    int dfs(TreeNode* node, unordered_map<long long, int> &m, long long prefixSum, const int targetSum) {
 
-        if(!root) return 0;
+        if(!node) return 0;
 
-        prefixSum += root->val;
+        prefixSum += node->val;
 
         int cnt = m[prefixSum - targetSum];
 
         m[prefixSum]++;
 
-        cnt += dfs(root->left, m, prefixSum, targetSum);
-        cnt += dfs(root->right, m, prefixSum, targetSum);
+        cnt += dfs(node->left, m, prefixSum, targetSum);
+        cnt += dfs(node->right, m, prefixSum, targetSum);
 
         m[prefixSum]--;
 
         return cnt;
     }
     int pathSum(TreeNode* root, int targetSum) {
-        unordered_map<int, int> m;
+        unordered_map<long long, int> m;
         m[0] = 1;
 
         return dfs(root, m, 0, targetSum);

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Ordered Set
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Math
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1248-count-number-of-nice-subarrays) |
+## String
+|  |
+| ------- |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 <!---LeetCode Topics End-->

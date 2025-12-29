@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0027-remove-element) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0525-contiguous-array) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0437-path-sum-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->

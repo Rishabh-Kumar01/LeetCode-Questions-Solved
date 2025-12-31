@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0923-3sum-with-multiplicity](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0923-3sum-with-multiplicity](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -100,11 +102,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0923-3sum-with-multiplicity](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0015-3sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0923-3sum-with-multiplicity](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0977-squares-of-a-sorted-array) |
+## Counting
+|  |
+| ------- |
+| [0923-3sum-with-multiplicity](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0923-3sum-with-multiplicity) |
 <!---LeetCode Topics End-->

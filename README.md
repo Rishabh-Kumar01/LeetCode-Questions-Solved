@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0020-valid-parentheses) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Bit Manipulation
 |  |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

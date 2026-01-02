@@ -14,7 +14,9 @@ public:
                 st.pop();
             }
 
-            st.push(currIndex);
+            if(i < n) {
+                st.push(currIndex);
+            }
         }
 
         return ans;

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0636-exclusive-time-of-functions) |
+| [0735-asteroid-collision](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0739-daily-temperatures) |
 | [0923-3sum-with-multiplicity](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0930-binary-subarrays-with-sum) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0636-exclusive-time-of-functions) |
+| [0735-asteroid-collision](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0901-online-stock-span) |
 ## Design
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0394-decode-string) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->

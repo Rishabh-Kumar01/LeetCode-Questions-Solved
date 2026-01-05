@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0394-decode-string) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Bit Manipulation
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0739-daily-temperatures) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0085-maximal-rectangle) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->

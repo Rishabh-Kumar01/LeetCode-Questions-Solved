@@ -20,10 +20,9 @@ public:
                 if(!st.empty()) {
                     int idx = st.top();
                     ans[idx] += (stoi(temp[2]) - prevTime);
-                    prevTime = stoi(temp[2]);
                 } 
                 st.push(stoi(temp[0]));
-                
+                prevTime = stoi(temp[2]);
             } else {
                 if(!st.empty()) {
                     int idx = st.top();

@@ -8,28 +8,27 @@ public:
         int prevTime = 0;
 
         for(int i = 0; i < logs.size(); i++) {
-            stringstream ss(logs[i]);
-            vector<string> temp;
-            string itr;
+            int firstColon = logs[i].find(':');
+            int secondColon = logs[i].find(':', firstColon + 1);
 
-            while(getline(ss, itr, ':')) {
-                temp.push_back(itr);
-            }
+            int id = stoi(logs[i].substr(0, firstColon));
+            string type = logs[i].substr(firstColon + 1, secondColon - firstColon - 1);
+            int timestamp = stoi(logs[i].substr(secondColon + 1));
 
-            if(temp[1] == "start") {
+            if(type == "start") {
                 if(!st.empty()) {
                     int idx = st.top();
-                    ans[idx] += (stoi(temp[2]) - prevTime);
+                    ans[idx] += (timestamp- prevTime);
                 } 
-                st.push(stoi(temp[0]));
-                prevTime = stoi(temp[2]);
+                st.push(id);
+                prevTime = timestamp;
             } else {
                 if(!st.empty()) {
                     int idx = st.top();
                     st.pop();
 
-                    ans[idx] += (stoi(temp[2]) - prevTime + 1);
-                    prevTime = stoi(temp[2]) + 1;
+                    ans[idx] += (timestamp- prevTime + 1);
+                    prevTime = timestamp + 1;
                 }
             }
         }

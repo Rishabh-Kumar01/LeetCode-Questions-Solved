@@ -26,15 +26,13 @@ public:
             }
         }
 
-        vector<int> ans;
+        vector<int> ans(st.size());
 
-        while(!st.empty()) {
-            ans.push_back(st.top());
+        for(int i = ans.size() - 1; i >= 0; i--) {
+            ans[i] = st.top();
             st.pop();
         }
-
-        reverse(ans.begin(), ans.end());
-
+    
         return ans;
     }
 };

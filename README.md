@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0856-score-of-parentheses) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Bit Manipulation
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0901-online-stock-span) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Design
 |  |
 | ------- |

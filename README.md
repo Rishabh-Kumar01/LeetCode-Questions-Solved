@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0346-moving-average-from-data-stream](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0346-moving-average-from-data-stream) |
 | [0360-sort-transformed-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0360-sort-transformed-array) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0496-next-greater-element-i](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0496-next-greater-element-i) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0232-implement-queue-using-stacks) |
+| [0346-moving-average-from-data-stream](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0346-moving-average-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0933-number-of-recent-calls) |
 ## Queue
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0232-implement-queue-using-stacks) |
+| [0346-moving-average-from-data-stream](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0346-moving-average-from-data-stream) |
 | [0933-number-of-recent-calls](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0346-moving-average-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0933-number-of-recent-calls) |
 ## Dynamic Programming

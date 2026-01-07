@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0622-design-circular-queue) |
 | [0636-exclusive-time-of-functions](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0739-daily-temperatures) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0622-design-circular-queue](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0622-design-circular-queue) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0232-implement-queue-using-stacks) |
 | [0346-moving-average-from-data-stream](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0346-moving-average-from-data-stream) |
+| [0622-design-circular-queue](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0933-number-of-recent-calls) |
 ## Queue
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0232-implement-queue-using-stacks) |
 | [0346-moving-average-from-data-stream](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0346-moving-average-from-data-stream) |
+| [0622-design-circular-queue](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |

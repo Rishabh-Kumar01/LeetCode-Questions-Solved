@@ -9,7 +9,7 @@ public:
     MyCircularDeque(int k) {
         size = k;
         v.resize(size);
-        rear = k-1;
+        // rear = k-1;
     }
     
     bool insertFront(int value) {
@@ -24,8 +24,8 @@ public:
     bool insertLast(int value) {
         if(isFull()) return false;
         
-        rear = (rear + 1) % size;
-        v[rear] = value;
+        v[rear] = value;           // Insert FIRST (at current rear)
+        rear = (rear + 1) % size;  // Move AFTER
         cnt++;
         return true;
     }
@@ -54,7 +54,7 @@ public:
     
     int getRear() {
         if(isEmpty()) return -1;
-        return v[rear];
+        return v[(rear - 1 + size) % size];  // Need adjustment!
     }
     
     bool isEmpty() {

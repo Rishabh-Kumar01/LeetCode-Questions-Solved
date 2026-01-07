@@ -9,12 +9,14 @@ public:
     MyCircularQueue(int k) {
         size = k;
         v.resize(k);
+        rear = k-1;
     }
     
     bool enQueue(int value) {
         if(cnt >= size) return false;
-        v[rear] = value;
         rear = (rear + 1) % size;
+
+        v[rear] = value;
         cnt++;
         return true;
     }
@@ -33,7 +35,7 @@ public:
     
     int Rear() {
         if(cnt == 0) return -1;
-        return v[(rear-1+size) % size];
+        return v[rear];
     }
     
     bool isEmpty() {

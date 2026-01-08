@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0239-sliding-window-maximum) |
 | [0346-moving-average-from-data-stream](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0346-moving-average-from-data-stream) |
 | [0360-sort-transformed-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0360-sort-transformed-array) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0239-sliding-window-maximum) |
 | [0346-moving-average-from-data-stream](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0346-moving-average-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0641-design-circular-deque) |
@@ -227,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0735-asteroid-collision) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

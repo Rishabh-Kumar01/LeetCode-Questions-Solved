@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1425-constrained-subsequence-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1425-constrained-subsequence-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1425-constrained-subsequence-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1425-constrained-subsequence-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0641-design-circular-deque) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0933-number-of-recent-calls](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0933-number-of-recent-calls) |
+| [1425-constrained-subsequence-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1425-constrained-subsequence-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0085-maximal-rectangle) |
+| [1425-constrained-subsequence-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1425-constrained-subsequence-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -240,9 +244,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1425-constrained-subsequence-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1425-constrained-subsequence-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1425-constrained-subsequence-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1425-constrained-subsequence-sum) |
 <!---LeetCode Topics End-->

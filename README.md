@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0279-perfect-squares](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0279-perfect-squares) |
 | [0360-sort-transformed-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0360-sort-transformed-array) |
 | [0523-continuous-subarray-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1248-count-number-of-nice-subarrays) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0085-maximal-rectangle) |
+| [0279-perfect-squares](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0279-perfect-squares) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1425-constrained-subsequence-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1696-jump-game-vi) |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0918-maximum-sum-circular-subarray) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->

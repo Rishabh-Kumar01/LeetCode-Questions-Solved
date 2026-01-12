@@ -1,47 +1,44 @@
 class Solution {
 public:
     void wallsAndGates(vector<vector<int>>& rooms) {
-        queue<pair<pair<int, int>, int>> q;
-
+        if(rooms.empty() || rooms[0].empty()) return;
+        
         int m = rooms.size();
         int n = rooms[0].size();
-
+        queue<pair<int, int>> q;
+        
+        // Add all gates to queue
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
-                if(rooms[i][j] == 0) q.push({{i, j}, 0});
+                if(rooms[i][j] == 0) {
+                    q.push({i, j});
+                }
             }
         }
-
+        
+        // Direction vectors: right, down, left, up
+        int dx[] = {0, 1, 0, -1};
+        int dy[] = {1, 0, -1, 0};
+        
+        // BFS from all gates simultaneously
         while(!q.empty()) {
-            auto [cord, dist] = q.front();
+            auto [row, col] = q.front();
             q.pop();
-            int row = cord.first;
-            int col = cord.second;
-
-            int right = rooms[row][min(col+1, n-1)];
-            int bottom = rooms[min(row+1, m-1)][col];
-            int left = rooms[row][max(0, col - 1)];
-            int top = rooms[max(0, row - 1)][col];
-
-            if(right == INT_MAX) {
-                rooms[row][min(col+1, n-1)] = dist + 1;
-                q.push({{row, min(col+1, n-1)}, dist + 1});
-            }
-
-            if(bottom == INT_MAX) {
-                rooms[min(row+1, m-1)][col] = dist + 1;
-                q.push({{min(row+1, m-1), col}, dist + 1});
-            }
-
-            if(left == INT_MAX) {
-                rooms[row][max(0, col - 1)] = dist + 1;
-                q.push({{row, max(0, col - 1)}, dist + 1});
-            }
-
-            if(top == INT_MAX) {
-                rooms[max(0, row - 1)][col] = dist + 1;
-                q.push({{max(0, row - 1), col}, dist + 1});
+            
+            // Explore all 4 neighbors
+            for(int dir = 0; dir < 4; dir++) {
+                int newRow = row + dx[dir];
+                int newCol = col + dy[dir];
+                
+                // Check bounds and if it's an unvisited empty room
+                if(newRow >= 0 && newRow < m && 
+                   newCol >= 0 && newCol < n &&
+                   rooms[newRow][newCol] == INT_MAX) {
+                    
+                    rooms[newRow][newCol] = rooms[row][col] + 1;
+                    q.push({newRow, newCol});
+                }
             }
         }
     }
-}; 
+};

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0622-design-circular-queue) |
 | [0636-exclusive-time-of-functions](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0636-exclusive-time-of-functions) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0085-maximal-rectangle) |
 | [0286-walls-and-gates](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0286-walls-and-gates) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0542-01-matrix](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0542-01-matrix) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Prefix Sum
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0085-maximal-rectangle) |
 | [0279-perfect-squares](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0279-perfect-squares) |
+| [0542-01-matrix](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1425-constrained-subsequence-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1696-jump-game-vi) |
@@ -279,4 +282,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0279-perfect-squares) |
 | [0286-walls-and-gates](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0286-walls-and-gates) |
+| [0542-01-matrix](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->

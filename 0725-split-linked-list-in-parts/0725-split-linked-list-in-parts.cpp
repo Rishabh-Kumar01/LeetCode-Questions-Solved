@@ -33,20 +33,19 @@ public:
                 modulo--;
             }
                 
-
             ListNode sub(-1);
             ListNode* temp = &sub;
 
-            while (cnt > 1) {
+            while (cnt > 0) {
                 temp->next = mover2;
                 temp = temp->next;
                 mover2 = mover2->next;
                 cnt--;
             }
 
-            temp->next = mover2;
-            temp = temp->next;
-            mover2 = mover2->next;
+            // temp->next = mover2;
+            // temp = temp->next;
+            // mover2 = mover2->next;
 
             temp->next = nullptr;
 

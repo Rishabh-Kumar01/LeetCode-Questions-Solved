@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0142-linked-list-cycle-ii) |

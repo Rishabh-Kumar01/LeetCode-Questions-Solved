@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0641-design-circular-deque) |
+| [0725-split-linked-list-in-parts](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |

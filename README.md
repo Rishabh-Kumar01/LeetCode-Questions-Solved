@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0279-perfect-squares) |
 | [0360-sort-transformed-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0360-sort-transformed-array) |
+| [0445-add-two-numbers-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0641-design-circular-deque) |
 | [0725-split-linked-list-in-parts](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0725-split-linked-list-in-parts) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0636-exclusive-time-of-functions) |

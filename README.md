@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0279-perfect-squares) |
 | [0360-sort-transformed-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0360-sort-transformed-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0394-decode-string) |

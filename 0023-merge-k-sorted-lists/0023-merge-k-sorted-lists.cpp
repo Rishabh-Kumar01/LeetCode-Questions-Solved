@@ -12,7 +12,7 @@ class Solution {
 public:
     ListNode* mergeHelper(vector<ListNode*>& lists, int left, int right) {
         if(left == right) return lists[left];
-        if(left > right) return nullptr;
+        // if(left > right) return nullptr;
 
         int mid = left + (right - left)/2;
 

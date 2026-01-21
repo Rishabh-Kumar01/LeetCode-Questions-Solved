@@ -14,31 +14,12 @@ public:
         if(list1 == nullptr) return list2;
         if(list2 == nullptr) return list1;
 
-        ListNode* head = new ListNode(-1);
-        ListNode* tail = head;
-
-        while(list1 != nullptr && list2 != nullptr) {
-            if(list1->val > list2->val) {
-                tail->next = list2;
-                list2 = list2->next;
-            } else {
-                tail->next = list1;
-                list1 = list1->next;
-            }
-            tail = tail->next;
+        if(list1->val < list2->val) {
+            list1->next = mergeTwoLists(list1->next, list2);
+            return list1;
+        } else {
+            list2->next = mergeTwoLists(list1, list2->next);
+            return list2;
         }
-
-        if(list1 != nullptr) {
-            tail->next = list1;
-        }
-
-        if(list2 != nullptr) {
-            tail->next = list2;
-        }
-
-        ListNode *result = head->next;
-        delete head;
-
-        return result;
     }
 };

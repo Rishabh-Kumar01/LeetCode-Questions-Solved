@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1425-constrained-subsequence-sum) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 ## Breadth-First Search
 |  |
@@ -322,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0286-walls-and-gates) |
 | [0542-01-matrix](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1162-as-far-from-land-as-possible) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

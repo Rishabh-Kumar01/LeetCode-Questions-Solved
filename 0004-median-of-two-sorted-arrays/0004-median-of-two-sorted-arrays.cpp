@@ -1,47 +1,39 @@
 class Solution {
 public:
-    void helper(vector<int>& nums1, vector<int>& nums2, int m, int n, int idx1, int idx2, vector<int> &ans) {
+    int helper(vector<int>& nums1, vector<int>& nums2, int m, int n, int idx1,
+               int idx2, int k) {
 
-        if(idx1 >= m) {
-            for(int i = idx2; i < n; i++) {
-                ans.push_back(nums2[i]);
-            }
-            return;
-        }
-        if(idx2 >= n) {
-            for(int i = idx1; i < m; i++) {
-                ans.push_back(nums1[i]);
-            }
-            return;
+        if (idx1 >= m) {
+            return nums2[idx2 + k];
         }
 
-        if(nums1[idx1] >= nums2[idx2]) {
-            ans.push_back(nums2[idx2]);
-            helper(nums1, nums2, m, n, idx1, idx2+1, ans);
+        if (idx2 >= n) {
+            return nums1[idx1 + k];
+        }
+
+        if (k == 0)
+            return min(nums1[idx1], nums2[idx2]);
+
+        if (nums1[idx1] <= nums2[idx2]) {
+            return helper(nums1, nums2, m, n, idx1 + 1, idx2, k - 1);
         } else {
-            ans.push_back(nums1[idx1]);
-            helper(nums1, nums2, m, n, idx1+1, idx2, ans);
+            return helper(nums1, nums2, m, n, idx1, idx2 + 1, k - 1);
         }
-
-
     }
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> ans;
         int m = nums1.size();
         int n = nums2.size();
-        int idx1 = 0;
-        int idx2 = 0;
 
-        helper(nums1, nums2, m, n, idx1, idx2, ans);
+        int total = m + n;
 
-        int size = ans.size();
+        int mid = total / 2;
 
-        if(size % 2 == 0) {
-            int mid1 = ans[(size/2)-1];
-            int mid2 = ans[((size/2))];
-            return (double)(mid1 + mid2)/2.0;
-        } 
-        int mid = (size)/2;
-        return (double)ans[mid];
+        if (total % 2 == 1) {
+            return helper(nums1, nums2, m, n, 0, 0, mid);
+        } else {
+            int mid1 = helper(nums1, nums2, m, n, 0, 0, mid);
+            int mid2 = helper(nums1, nums2, m, n, 0, 0, mid - 1);
+            return (mid1 + mid2) / 2.0;
+        }
     }
 };

@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0344-reverse-string) |
 | [0360-sort-transformed-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0360-sort-transformed-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0360-sort-transformed-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0360-sort-transformed-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0237-delete-node-in-a-linked-list) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 ## Breadth-First Search
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0148-sort-list) |
 ## Quickselect
 |  |
 | ------- |

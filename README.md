@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0078-subsets) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Tree
 |  |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

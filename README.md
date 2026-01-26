@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0215-kth-largest-element-in-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0090-subsets-ii) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Tree
 |  |
@@ -351,4 +353,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

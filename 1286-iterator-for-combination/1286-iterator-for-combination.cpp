@@ -7,7 +7,7 @@ private:
                 const int& k, string& curr) {
         if (curr.size() == k) {
             combinations.push_back(curr);
-            return;
+            // return;
         }
 
         for (int i = start; i < s.size(); i++) {

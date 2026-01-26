@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void helper(string s, int idx, vector<string> &ans) {
+    void helper(string &s, int idx, vector<string> &ans) {
         if(idx == s.size()) {
             ans.push_back(s);
             return;

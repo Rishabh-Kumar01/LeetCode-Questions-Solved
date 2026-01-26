@@ -1,33 +1,45 @@
 class CombinationIterator {
 private:
-    vector<string> combinations;
-    int index;
-
-    void helper(string& s, vector<string>& combinations, int start,
-                const int& k, string& curr) {
-        if (curr.size() == k) {
-            combinations.push_back(curr);
-            // return;
-        }
-
-        for (int i = start; i < s.size(); i++) {
-            curr.push_back(s[i]);
-            helper(s, combinations, i + 1, k, curr);
-            curr.pop_back();
-        }
-    }
+    string s;
+    int k;
+    vector<int> indices;
+    bool hasNextFlag;
 
 public:
     CombinationIterator(string characters, int combinationLength) {
-        index = 0;
-        string curr = "";
+        s = characters;
+        k = combinationLength;
+        hasNextFlag = true;
 
-        helper(characters, combinations, 0, combinationLength, curr);
+        for (int i = 0; i < k; i++)
+            indices.push_back(i);
     }
 
-    string next() { return combinations[index++]; }
+    string next() {
+        string ans = "";
 
-    bool hasNext() { return index < combinations.size(); }
+        for (int i = 0; i < k; i++) {
+            ans += s[indices[i]];
+        }
+
+        int i = k - 1;
+        while (i >= 0 && indices[i] == s.size() - k + i)
+            i--;
+
+        if (i < 0) {
+            hasNextFlag = false;
+        } else {
+            indices[i]++;
+
+            for (int j = i + 1; j < k; j++) {
+                indices[j] = indices[j - 1] + 1; // ✅ Set to previous + 1
+            }
+        }
+
+        return ans;
+    }
+
+    bool hasNext() { return hasNextFlag; }
 };
 
 /**

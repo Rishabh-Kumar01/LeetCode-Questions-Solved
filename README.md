@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0784-letter-case-permutation) |
 | [0856-score-of-parentheses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0856-score-of-parentheses) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1286-iterator-for-combination](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1286-iterator-for-combination) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Bit Manipulation
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0933-number-of-recent-calls) |
+| [1286-iterator-for-combination](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1286-iterator-for-combination) |
 ## Queue
 |  |
 | ------- |
@@ -357,4 +359,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0784-letter-case-permutation) |
+| [1286-iterator-for-combination](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1286-iterator-for-combination) |
+## Iterator
+|  |
+| ------- |
+| [1286-iterator-for-combination](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1286-iterator-for-combination) |
 <!---LeetCode Topics End-->

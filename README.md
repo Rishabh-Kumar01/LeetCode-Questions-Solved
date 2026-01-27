@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0977-squares-of-a-sorted-array) |
+| [0996-number-of-squareful-arrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0996-number-of-squareful-arrays) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1162-as-far-from-land-as-possible](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1162-as-far-from-land-as-possible) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1248-count-number-of-nice-subarrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0996-number-of-squareful-arrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0996-number-of-squareful-arrays) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0360-sort-transformed-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0360-sort-transformed-array) |
 | [0445-add-two-numbers-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0523-continuous-subarray-sum) |
+| [0996-number-of-squareful-arrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0996-number-of-squareful-arrays) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0784-letter-case-permutation) |
+| [0996-number-of-squareful-arrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0996-number-of-squareful-arrays) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Tree
 |  |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0918-maximum-sum-circular-subarray) |
+| [0996-number-of-squareful-arrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0996-number-of-squareful-arrays) |
 | [1162-as-far-from-land-as-possible](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1162-as-far-from-land-as-possible) |
 | [1425-constrained-subsequence-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1696-jump-game-vi) |
@@ -368,9 +373,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0784-letter-case-permutation) |
+| [0996-number-of-squareful-arrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0996-number-of-squareful-arrays) |
 | [1286-iterator-for-combination](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1286-iterator-for-combination) |
 ## Iterator
 |  |
 | ------- |
 | [1286-iterator-for-combination](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1286-iterator-for-combination) |
+## Bitmask DP
+|  |
+| ------- |
+| [0996-number-of-squareful-arrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0996-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->

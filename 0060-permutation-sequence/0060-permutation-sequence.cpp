@@ -1,7 +1,7 @@
 class Solution {
 public:
     string getPermutation(int n, int k) {
-        vector<int> input;
+        list<int> input; // Use list instead of vector
         int fact = 1;
 
         for (int i = 1; i < n; i++) {
@@ -15,14 +15,17 @@ public:
 
         while (true) {
             int group = k / fact;
-            ans += to_string(input[group]);
-            input.erase(input.begin() + group);
+
+            // Iterator-based removal: O(n) to find, O(1) to remove
+            auto it = input.begin();
+            advance(it, group);
+            ans += to_string(*it);
+            input.erase(it);
 
             if (input.size() == 0)
                 break;
 
             k = k % fact;
-
             fact /= input.size();
         }
 

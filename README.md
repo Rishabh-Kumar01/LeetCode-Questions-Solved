@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0047-permutations-ii) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0077-combinations) |

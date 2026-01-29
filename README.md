@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0496-next-greater-element-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0316-remove-duplicate-letters) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0046-permutations) |

@@ -13,7 +13,7 @@ public:
 
         for(int i = idx; i < input.size(); i++) {
 
-            if(i > idx && input[i] == input[i-1]) continue;
+            // if(i > idx && input[i] == input[i-1]) continue;
 
             curr.push_back(input[i]);
             sum += input[i];

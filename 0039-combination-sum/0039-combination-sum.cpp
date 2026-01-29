@@ -9,7 +9,7 @@ public:
             return;
         }
 
-        for(int i = max(0, idx); i < input.size(); i++){
+        for(int i = idx; i < input.size(); i++){
             curr.push_back(input[i]);
             sum += input[i];
 

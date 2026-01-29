@@ -10,7 +10,7 @@ public:
         char temp = input[idx];
         string alph = mpp[temp];
         for(int i = 0; i < alph.size(); i++) {
-            curr += alph[i];
+            curr.push_back(alph[i]);
 
             helper(input, idx+1, ans, curr, mpp, n);
 

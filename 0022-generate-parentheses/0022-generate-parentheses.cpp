@@ -2,14 +2,13 @@ class Solution {
 public:
     void helper(string &curr, vector<string> &ans, int n, int cntOpen, int cntClose){
         
-        if(cntOpen > n) return;
 
         if(cntOpen == n && cntClose == n) {
             ans.push_back(curr);
             return;
         }
 
-        if(cntOpen <= n) {
+        if(cntOpen < n) {
             curr.push_back('(');
             helper(curr, ans, n, cntOpen+1, cntClose);
             curr.pop_back();

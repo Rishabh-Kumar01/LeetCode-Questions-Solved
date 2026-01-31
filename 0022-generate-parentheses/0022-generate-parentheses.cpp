@@ -15,7 +15,7 @@ public:
             curr.pop_back();
         }
 
-        if(cntClose < cntOpen && cntOpen <= n) {
+        if(cntClose < cntOpen) {
             curr.push_back(')');
             helper(curr, ans, n, cntOpen, cntClose+1);
             curr.pop_back();

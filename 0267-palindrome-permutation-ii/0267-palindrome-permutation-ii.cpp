@@ -2,24 +2,26 @@ class Solution {
 public:
     vector<string> ans;
     
-    void helper(string &curr, unordered_map<char, int> &halfFreq, int halfLen, string &mid) {
-        // Base case: half is complete
-        if(curr.size() == halfLen) {
+    void helper(string &half, string &curr, vector<bool> &used, string &mid) {
+        if(curr.size() == half.size()) {
             string rev = curr;
             reverse(rev.begin(), rev.end());
             ans.push_back(curr + mid + rev);
             return;
         }
         
-        // Try each character that has remaining count
-        for(auto &[ch, count] : halfFreq) {
-            if(count > 0) {
-                count--;                // use it
-                curr.push_back(ch);
-                helper(curr, halfFreq, halfLen, mid);
-                curr.pop_back();        // backtrack
-                count++;                // restore
-            }
+        for(int i = 0; i < half.size(); i++) {
+            // Skip if already used
+            if(used[i]) continue;
+            
+            // Skip duplicates: same as prev AND prev not used
+            if(i > 0 && half[i] == half[i-1] && !used[i-1]) continue;
+            
+            used[i] = true;
+            curr.push_back(half[i]);
+            helper(half, curr, used, mid);
+            curr.pop_back();
+            used[i] = false;
         }
     }
     
@@ -41,23 +43,23 @@ public:
             }
         }
         
-        // More than one odd count → impossible
         if(oddCount > 1) return {};
         
-        // Step 3: Build half frequency map
-        unordered_map<char, int> halfFreq;
-        int halfLen = 0;
-        
+        // Step 3: Build half string
+        string half = "";
         for(auto &[ch, count] : freq) {
-            if(count / 2 > 0) {
-                halfFreq[ch] = count / 2;
-                halfLen += count / 2;
+            for(int i = 0; i < count / 2; i++) {
+                half.push_back(ch);
             }
         }
         
-        // Step 4: Generate permutations
+        // Step 4: Sort for duplicate handling
+        sort(half.begin(), half.end());
+        
+        // Step 5: Generate permutations
         string curr = "";
-        helper(curr, halfFreq, halfLen, mid);
+        vector<bool> used(half.size(), false);
+        helper(half, curr, used, mid);
         
         return ans;
     }

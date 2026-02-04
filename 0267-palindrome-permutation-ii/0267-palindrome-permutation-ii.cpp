@@ -1,66 +1,59 @@
 class Solution {
 public:
     vector<string> ans;
-    
-    void helper(string &half, string &curr, vector<bool> &used, string &mid) {
-        if(curr.size() == half.size()) {
+
+    void helper(string &curr, const int &halfLen, unordered_map<char, int> &halfFreq, const string &mid) {
+
+        if(curr.size() == halfLen) {
             string rev = curr;
             reverse(rev.begin(), rev.end());
             ans.push_back(curr + mid + rev);
             return;
         }
-        
-        for(int i = 0; i < half.size(); i++) {
-            // Skip if already used
-            if(used[i]) continue;
-            
-            // Skip duplicates: same as prev AND prev not used
-            if(i > 0 && half[i] == half[i-1] && !used[i-1]) continue;
-            
-            used[i] = true;
-            curr.push_back(half[i]);
-            helper(half, curr, used, mid);
-            curr.pop_back();
-            used[i] = false;
+
+        for(auto &[ch, count]: halfFreq) {
+            if(count > 0) {
+                count--;
+                curr.push_back(ch);
+                helper(curr, halfLen, halfFreq, mid);
+                curr.pop_back();
+                count++;
+            }
         }
+
     }
-    
+
     vector<string> generatePalindromes(string s) {
-        // Step 1: Count frequencies
-        unordered_map<char, int> freq;
-        for(char ch : s) {
-            freq[ch]++;
-        }
-        
-        // Step 2: Check validity & find middle char
+        unordered_map<char, int> mpp;
+
+        for(auto c: s) mpp[c]++;
+
+        int cntOdd = 0;
         string mid = "";
-        int oddCount = 0;
-        
-        for(auto &[ch, count] : freq) {
+
+        for(auto &[ch, count] : mpp) {
             if(count % 2 == 1) {
-                oddCount++;
                 mid = ch;
+                cntOdd++;
             }
         }
-        
-        if(oddCount > 1) return {};
-        
-        // Step 3: Build half string
-        string half = "";
-        for(auto &[ch, count] : freq) {
-            for(int i = 0; i < count / 2; i++) {
-                half.push_back(ch);
+
+        if(cntOdd > 1) return {};
+
+
+        int halfLen = 0;
+        unordered_map<char, int> halfFreq;
+
+        for(auto &[ch, count] : mpp) {
+            if(count / 2 > 0) {
+                halfFreq[ch] = count/2;
+                halfLen += count/2;
             }
         }
-        
-        // Step 4: Sort for duplicate handling
-        sort(half.begin(), half.end());
-        
-        // Step 5: Generate permutations
+
         string curr = "";
-        vector<bool> used(half.size(), false);
-        helper(half, curr, used, mid);
-        
+        helper(curr, halfLen, halfFreq, mid);
+
         return ans;
     }
 };

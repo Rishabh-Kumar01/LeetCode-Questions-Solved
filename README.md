@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0090-subsets-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0085-maximal-rectangle) |
 | [0286-walls-and-gates](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0286-walls-and-gates) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0131-palindrome-partitioning) |
 | [0267-palindrome-permutation-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0267-palindrome-permutation-ii) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0079-word-search) |
 | [0437-path-sum-iii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0437-path-sum-iii) |
 ## Binary Tree
 |  |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0131-palindrome-partitioning) |

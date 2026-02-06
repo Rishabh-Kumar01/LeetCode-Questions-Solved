@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0212-word-search-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0239-sliding-window-maximum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0085-maximal-rectangle) |
+| [0212-word-search-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0212-word-search-ii) |
 | [0286-walls-and-gates](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0286-walls-and-gates) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0542-01-matrix](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0542-01-matrix) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0212-word-search-ii) |
 | [0267-palindrome-permutation-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0267-palindrome-permutation-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0344-reverse-string) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0216-combination-sum-iii) |
 | [0267-palindrome-permutation-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0267-palindrome-permutation-ii) |
 | [0784-letter-case-permutation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0784-letter-case-permutation) |
@@ -411,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0996-number-of-squareful-arrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0996-number-of-squareful-arrays) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->

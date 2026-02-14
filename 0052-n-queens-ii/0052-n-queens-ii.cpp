@@ -1,11 +1,10 @@
 class Solution {
 public:
     void helper(int row, int n, vector<bool>& colUsed, vector<bool>& diag1,
-                vector<bool>& diag2, vector<vector<string>>& ans,
-                vector<string>& board) {
+                vector<bool>& diag2, int& ans) {
 
         if (row == n) {
-            ans.push_back(board);
+            ans += 1;
             return;
         }
 
@@ -17,16 +16,14 @@ public:
                 continue;
             }
 
-            board[row][col] = 'Q';
             colUsed[col] = true;
             diag1[d1] = true;
             diag2[d2] = true;
 
             // Recurse to NEXT ROW (not next column!)
-            helper(row + 1, n, colUsed, diag1, diag2, ans, board);
+            helper(row + 1, n, colUsed, diag1, diag2, ans);
 
             // Backtrack
-            board[row][col] = '.';
             colUsed[col] = false;
             diag1[d1] = false;
             diag2[d2] = false;
@@ -36,11 +33,10 @@ public:
         vector<bool> colUsed(n, false);
         vector<bool> diag1(2 * n - 1, false);
         vector<bool> diag2(2 * n - 1, false);
-        vector<vector<string>> ans;
-        vector<string> board(n, string(n, '.'));
+        int ans = 0;
 
-        helper(0, n, colUsed, diag1, diag2, ans, board);
+        helper(0, n, colUsed, diag1, diag2, ans);
 
-        return ans.size();
+        return ans;
     }
 };

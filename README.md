@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0212-word-search-ii) |
 | [0267-palindrome-permutation-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0267-palindrome-permutation-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0394-decode-string) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0279-perfect-squares) |
 | [0286-walls-and-gates](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0286-walls-and-gates) |
+| [0301-remove-invalid-parentheses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1162-as-far-from-land-as-possible) |
 ## Merge Sort
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0216-combination-sum-iii) |
 | [0267-palindrome-permutation-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0267-palindrome-permutation-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0301-remove-invalid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0784-letter-case-permutation) |
 | [0996-number-of-squareful-arrays](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0996-number-of-squareful-arrays) |
 | [1286-iterator-for-combination](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/1286-iterator-for-combination) |

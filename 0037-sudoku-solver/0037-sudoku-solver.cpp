@@ -1,46 +1,33 @@
 class Solution {
 public:
-    int helper(int row, int col, vector<vector<char>>& board,
-                vector<vector<bool>>& rowUsed, vector<vector<bool>>& colUsed,
-                vector<vector<bool>>& boxUsed) {
+    int helper(int idx, vector<pair<int, int>> emptyCells,
+               vector<vector<char>>& board, vector<vector<bool>>& rowUsed,
+               vector<vector<bool>>& colUsed, vector<vector<bool>>& boxUsed) {
 
-        int emptyRow = -1;
-        int emptyCol = -1;
-        bool found = false;
-        for (int i = 0; i < 9 && !found; i++) {
+        if (idx == emptyCells.size())
+            return true; // All filled!
 
-            for (int j = 0; j < 9 && !found; j++) {
-                if (board[i][j] == '.') {
-                    found = true;
-                    emptyRow = i;
-                    emptyCol = j;
-                    break;
-                }
-            }
-
-            
-        }
-
-        if (!found)
-            return true;
+        auto [row, col] = emptyCells[idx];
 
         for (int i = 1; i <= 9; i++) {
 
-            int boxIndex = (emptyRow / 3) * 3 + (emptyCol / 3);
+            int boxIndex = (row / 3) * 3 + (col / 3);
 
-            if (!rowUsed[emptyRow][i] && !colUsed[emptyCol][i] &&
+            if (!rowUsed[row][i] && !colUsed[col][i] &&
                 !boxUsed[boxIndex][i]) {
 
-                board[emptyRow][emptyCol] = '0' + i;
-                rowUsed[emptyRow][i] = true;
-                colUsed[emptyCol][i] = true;
+                board[row][col] = '0' + i;
+                rowUsed[row][i] = true;
+                colUsed[col][i] = true;
                 boxUsed[boxIndex][i] = true;
 
-                if(helper(emptyRow, emptyCol, board, rowUsed, colUsed, boxUsed)) return true;
+                if (helper(idx + 1, emptyCells, board,
+                           rowUsed, colUsed, boxUsed))
+                    return true;
 
-                board[emptyRow][emptyCol] = '.';
-                rowUsed[emptyRow][i] = false;
-                colUsed[emptyCol][i] = false;
+                board[row][col] = '.';
+                rowUsed[row][i] = false;
+                colUsed[col][i] = false;
                 boxUsed[boxIndex][i] = false;
             }
         }
@@ -65,6 +52,16 @@ public:
             }
         }
 
-        helper(0, 0, board, rowUsed, colUsed, boxUsed);
+        vector<pair<int, int>> emptyCells;
+
+        for (int i = 0; i < 9; i++) {
+            for (int j = 0; j < 9; j++) {
+                if (board[i][j] == '.') {
+                    emptyCells.push_back({i, j});
+                }
+            }
+        }
+
+        helper(0, emptyCells, board, rowUsed, colUsed, boxUsed);
     }
 };

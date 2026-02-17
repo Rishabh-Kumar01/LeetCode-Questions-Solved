@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0042-trapping-rain-water) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0212-word-search-ii) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0267-palindrome-permutation-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0267-palindrome-permutation-ii) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rishabh-Kumar01/LeetCode-Questions-Solved/tree/master/0046-permutations) |

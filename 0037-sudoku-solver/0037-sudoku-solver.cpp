@@ -7,9 +7,9 @@ public:
         int emptyRow = -1;
         int emptyCol = -1;
         bool found = false;
-        for (int i = 0; i < 9; i++) {
+        for (int i = 0; i < 9 && !found; i++) {
 
-            for (int j = 0; j < 9; j++) {
+            for (int j = 0; j < 9 && !found; j++) {
                 if (board[i][j] == '.') {
                     found = true;
                     emptyRow = i;
@@ -18,8 +18,7 @@ public:
                 }
             }
 
-            if (found)
-                break;
+            
         }
 
         if (!found)
